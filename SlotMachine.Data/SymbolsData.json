@@ -1,0 +1,26 @@
+[
+  {
+    "SymbolChar": "A",
+    "Coefficient": 0.4,
+    "FullName": "Apple",
+    "Probability": 45
+  },
+  {
+    "SymbolChar": "B",
+    "Coefficient": 0.6,
+    "FullName": "Banana",
+    "Probability": 35
+  },
+  {
+    "SymbolChar": "P",
+    "Coefficient": 0.8,
+    "FullName": "Pineapple",
+    "Probability": 15
+  },
+  {
+    "SymbolChar": "*",
+    "Coefficient": 0.0,
+    "FullName": "Wildcard",
+    "Probability": 5
+  }
+]
